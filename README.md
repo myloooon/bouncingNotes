@@ -1,5 +1,6 @@
 # bouncingNotes
 A simple musical web toy.
+Play in-browser at https://myloon.itch.io/bouncing-notes
 
 * **Click anywhere within the box** to create a ball that bounces back and forth horizontally. 
 * The **slider** controls the speed of all balls and can be adjusted by clicking and dragging its node.
